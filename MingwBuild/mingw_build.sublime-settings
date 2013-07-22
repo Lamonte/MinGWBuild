@@ -1,0 +1,5 @@
+{
+	"mingwbuild_commands": "-Lc:/SFML/lib -Ic:/SFML/include -DSFML_STATIC -lsfml-main -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -mwindows -static-libgcc -static-libstdc++",
+	"mingwbuild_dont_add_cpp_files": false,
+	"mingbuild_debug": true
+}
